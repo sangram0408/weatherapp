@@ -40,8 +40,8 @@ function App() {
   return (
     <div className= 'app'>
       <main>
+        <div className="Header">Weather.org</div>
         <div className="search-box">
-          Weather.org
           <input
             type="text"
             className="search-bar"
