@@ -21,8 +21,18 @@ main {
   padding: 25px;
 }
 
+.Header {
+  margin: 0 0 30px;
+  text-align: center;
+  color: #FFF;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 600;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+}
+
 .search-box {
-  margin: 0 0 120px;
+  margin: 0 0 80px;
   color: #FFF;
   font-size: 40px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -31,7 +41,7 @@ main {
 }
 
 .search-box .search-bar {
-  width: 30%;
+  width: 50%;
   float: right;
   display: block;
   padding: 15px;
